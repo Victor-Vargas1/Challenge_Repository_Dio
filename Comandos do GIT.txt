@@ -4,25 +4,25 @@
 ##Os 10 comandos que você precisa se lembrar para utilizar o Gitbash:
 
 
-git init	Iniciar repositório
+git init	[Iniciar repositório]
  
-git clone	Baixar projeto
+git clone	[Baixar projeto]
 
-git status	Verificar alterações
+git status	[Verificar alterações]
 
-git add .	Preparar alterações
+git add .	[Preparar alterações]
 
-git commit -m	Salvar alterações
+git commit -m	[Salvar alterações]
 
-git push	Enviar ao GitHub
+git push	[Enviar ao GitHub]
 
-git pull	Atualizar projeto
+git pull	[Atualizar projeto]
 
-git branch	Listar branches
+git branch	[Listar branches]
 
-git switch -c	Criar e acessar branch
+git switch -c	[Criar e acessar branch]
 
-git merge	Unir branches
+git merge	[Unir branche]
 
 
 Disponível para consultar sempre que necessário.
